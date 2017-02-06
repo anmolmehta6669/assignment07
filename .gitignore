@@ -1,0 +1,12 @@
+project/target/
+project/project/
+target/
+src/main/java/
+src/main/scala-2.12/
+src/main/resources
+src/test/java
+src/test/resources
+src/test/scala-2.12
+target/
+.idea/
+
